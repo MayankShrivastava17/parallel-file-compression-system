@@ -53,6 +53,5 @@ python3 visualize.py --csv ../out/metrics_<timestamp>.csv
 * All compressed files are saved in the `out/` folder.
 * Decompressed files are suffixed with `.out`.
 * Use the Python visualization script to compare **compression ratios** and **runtime** across workloads.
-* Implementations are simplified for educational purposes.
 
 ---
